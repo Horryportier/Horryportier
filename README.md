@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Horryportier
 - 👀 I’m interested in ... kinda everything
-- 🌱 I’m currently learning ... python/arduino
+- 🌱 I’m currently learning  python/arduino/lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Twitter:@horryportier 
 
