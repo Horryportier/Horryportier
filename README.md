@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Horryportier
-- 👀 I’m interested in ... kinda everything
-- 🌱 I’m currently learning  python/arduino/lua/js/maybe rust ;)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... a lot of stuff
+- 🌱 I’m currently learning  js/lua/golang/
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Twitter:@horryportier 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorryPortier&hide=php)](https://github.com/folke)
 
 <!---
 Horryportier/Horryportier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
