@@ -5,12 +5,12 @@
 - 📫 How to reach me ... Twitter:@horryportier 
 
   
+ What I'm using            |     Stats :)
+:-------------------------:|:-------------------------:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorryPortier&hide=php)](https://github.com/Horryportier) |  [![Github stats](https://github-readme-stats.vercel.app/api?username=HorryPortier&count_private=true&show_icons=true)](https://github.com/Horryportier)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorryPortier&hide=php)](https://github.com/Horryportier)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=HorryPortier&count_private=true&show_icons=true)](https://github.com/Horryportier)
-  
 
  
 <!---
