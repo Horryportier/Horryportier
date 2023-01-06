@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Horryportier
-- 👀 I’m interested in ... a lot of stuff
-- 🌱 I’m currently learning  js/lua/golang/
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Twitter:@horryportier 
+- 👀 I’m interested in  TUI's I have an problem. ;) 
+- 🌱 I’m currently learning  golang/stuff
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me  Twitter:@horryportier 
 
   
  What I'm using            |     Stats :)
