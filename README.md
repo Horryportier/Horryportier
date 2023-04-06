@@ -62,7 +62,7 @@ Most off my porjects are linux terminal tools. </p>
 <img  alt="twitter" height="40px" style="padding-right:10px;" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"/>
 </a>
 
-<a href="https://mail.google.com/mail/u/?authuser=kowalskis354@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:kowalskis354@gmail.com" target="_blank" rel="noreferrer">
 <img  alt="email" height="40px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
 </a>
 </div>
